@@ -1,0 +1,2 @@
+curl -X  POST -d 'foo=bar,test=test2' http://localhost:8080/
+OK⏎ 
